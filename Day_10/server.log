@@ -1,0 +1,8 @@
+[INFO] Server started at 10:00 AM
+[INFO] Listening on port 8080
+[ERROR] Failed to connect to database
+[WARNING] High memory usage detected
+[INFO] Request received from 192.168.1.1
+[ERROR] Timeout while reading request
+[INFO] Server health check passed
+[ERROR] Disk space low

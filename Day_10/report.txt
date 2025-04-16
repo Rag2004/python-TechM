@@ -1,0 +1,7 @@
+Alice,67,Pass
+Bob,45,Fail
+Charlie,82,Pass
+David,39,Fail
+Eva,51,Pass
+Frank,29,Fail
+Grace,90,Pass
